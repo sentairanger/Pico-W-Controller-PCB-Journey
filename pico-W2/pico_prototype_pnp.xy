@@ -1,0 +1,22 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=pico_prototype
+# Date=22:12:40
+# CreatedBy=Fritzing 1.0.1rc.2024-04-08.debian/1.0.1-1build4
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Speed Control,";;;;;;;;","THT",4013.59,1159.25,90,Top,THT
+Forward,";;;;;;;;","tactile-pth",685.589,1248.25,0,Top,SMT
+Backward,";;;;;;;;","tactile-pth",685.589,748.253,0,Top,SMT
+Left,";;;;;;;;","tactile-pth",1285.59,748.253,0,Top,SMT
+Pico W,";;;;;;;;","",2463.47,2431.5,0,Top,MANUAL
+Right,";;;;;;;;","tactile-pth",1285.59,1248.25,0,Top,SMT
