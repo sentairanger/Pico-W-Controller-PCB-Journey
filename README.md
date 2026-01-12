@@ -16,6 +16,10 @@ Phase 1 contains the following directories:
 * [Unboxing](https://www.youtube.com/watch?v=elfGTyRDZuA)
 * [Tests](https://www.youtube.com/watch?v=QR5EE1Y6VNA)
 * [Part 1](https://www.youtube.com/watch?v=hB-mVQnAE-I)
+* [Part 2](https://www.youtube.com/watch?v=uNXGb62DuPc)
+* [Part 3](https://www.youtube.com/watch?v=CJ8Y3k0dne4)
+* [Part 4](https://www.youtube.com/watch?v=0lXP4v2qwhc)
+* [Part 5](https://www.youtube.com/watch?v=n0WUfoj12Ag)
 
 ### Medium Articles related to Phase 1
 
