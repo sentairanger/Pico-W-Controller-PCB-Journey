@@ -25,3 +25,9 @@ Phase 1 contains the following directories:
 
 * [Building my first Pico W Robot Controller, Phase 1](https://medium.com/@ed2point0/building-my-first-pico-w-robot-controller-phase-1-8596170b6a6c?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
 * [Why I built my Raspberry Pi Pico W Controller PCB (Including Tests)](https://medium.com/@ed2point0/why-i-built-my-raspberry-pi-pico-w-controller-pcb-including-tests-ff5253f710de)
+* [The mistakes I made in my Phase 1 Pico W Controller](https://medium.com/@ed2point0/the-mistakes-i-made-in-my-phase-1-pico-w-controller-434929042be3?postPublishedType=initial)
+
+### Phase 1 Issues to Resolve
+* Solder balls due to excess soldering
+* Double grounding on Forward Button
+* Ground and GPIO share same area on Right Button
