@@ -31,3 +31,14 @@ Phase 1 contains the following directories:
 * Solder balls due to excess soldering
 * Double grounding on Forward Button
 * Ground and GPIO share same area on Right Button
+
+## Phase 2 (Corrected version)
+
+This version corrects all the issues that existed from Phase 1. Phase 2 contains the following directories and files:
+
+* `phase2-picow`: The gerber files for the second phase of the board.
+* `phase2_tests`: The test files to test the potentiometer, buttons, and LED.
+* `pico_prototype.fzz`: The Fritzing file that can be altered for personal use.
+
+### Phase 2 PCB Design
+![PCB](https://github.com/sentairanger/Pico-W-Controller-PCB-Journey/blob/main/pico_prototype_pcb.jpg)
